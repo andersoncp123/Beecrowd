@@ -1,4 +1,4 @@
-#Resolução de Questões no Beecrowd com Python
+# Resolução de Questões no Beecrowd com Python
 
 Olá, eu sou o Anderson André e este é o meu repositório no GitHub, onde compartilho minhas soluções para as questões no site Beecrowd usando a linguagem Python. Eu sou um entusiasta de programação apaixonado por desafios e sempre busco novas oportunidades para aprimorar minhas habilidades.
 
